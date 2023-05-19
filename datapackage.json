@@ -147,7 +147,7 @@
     {
       "name": "haushalt-schleswig-holstein-enriched",
       "format": "csv",
-      "path": "haushalt-schleswig-holstein-enriched.csv",
+      "path": "https://storage.openspending.org/haushalt-schleswig-holstein-enriched.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 6549111,
       "dialect": {
